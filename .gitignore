@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+/.vs
+/MissionArray/.vs/MissionArray
+/MissionManagement/.vs/MissionManagement
+/MissionManagement/x64/Debug
+/MissionShape/.vs/MissionShape
+/MissionShape/x64/Debug
+/MissionString/.vs/MissionString
+/MissionString/x64/Debug
+/MissionTemplateFunc/.vs/MissionTemplateFunc
+/MissionTemplateFunc/x64/Debug
