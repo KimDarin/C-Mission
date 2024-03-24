@@ -75,7 +75,7 @@ int main()
 		printf("면적: %.2f\n", shapes[i]->Area());
 	}
 
-	//printf("Circle Area: %.2f\n", cir.CircleArea());
-	//printf("Rectangle Area: %.2f\n", rect.RectangleArea());
-	//printf("Triangle Area: %.2f\n", tri.TriangleArea());
+	printf("circle area: %.2f\n", cir.circlearea());
+	printf("rectangle area: %.2f\n", rect.rectanglearea());
+	printf("triangle area: %.2f\n", tri.trianglearea());
 }
